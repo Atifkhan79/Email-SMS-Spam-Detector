@@ -86,4 +86,4 @@ Then open **http://127.0.0.1:5000** in your browser.
 - **ML:** scikit-learn (TF-IDF, Multinomial Naive Bayes), NLTK
 - **Frontend:** vanilla HTML/CSS/JS (no framework), Google Fonts (Space Grotesk, JetBrains Mono, Inter)
 
-Atif Khan 🔗 Portfolio: atifkhan7portfolio.netlify.app
+Atif Khan 🔗 Portfolio: atifkhan7portfolio.netlify.app/
