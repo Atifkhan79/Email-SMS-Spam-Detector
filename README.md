@@ -53,7 +53,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Then open **http://127.0.0.1:5000** in your browser.
+Then open https://email-sms-spam-detector-001b.onrender.com in your browser.
 
 > On first run, the app will automatically download the required NLTK data (`punkt`, `punkt_tab`, `stopwords`) if it isn't already present.
 
